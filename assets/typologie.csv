@@ -1,0 +1,14 @@
+Code,Text_DE,Text_FR,Text_IT
+K111,"Allgemeinspital, Zentrumsversorgung (Niveau 1, Universitätsspital)","Hôpital de soins généraux, prise en charge centralisée (niveau 1, hôpital universitaire)","Ospedali per cure generali, presa a carico centralizzata (livello 1, ospedale universitario)"
+K112,"Allgemeinspital, Zentrumsversorgung (Niveau 2)","Hôpital de soins généraux, prise en charge centralisée (niveau 2)","Ospedali per cure generali, presa a carico centralizzata (livello 2)"
+K121,"Allgemeinspital, Grundversorgung (Niveau 3)","Hôpital de soins généraux, soins de base (niveau 3)","Ospedali per cure generali, cure di base (livello 3)"
+K122,"Allgemeinspital, Grundversorgung (Niveau 4)","Hôpital de soins généraux, soins de base (niveau 4)","Ospedali per cure generali, cure di base (livello 4)"
+K123,"Allgemeinspital, Grundversorgung (Niveau 5)","Hôpital de soins généraux, soins de base (niveau 5)","Ospedali per cure generali, cure di base (livello 5)"
+K211,Psychiatrische Klinik (Niveau 1),Clinique psychiatrique (niveau 1),Cliniche psichiatriche (livello 1)
+K212,Psychiatrische Klinik (Niveau 2),Clinique psychiatrique (niveau 2),Cliniche psichiatriche (livello 2)
+K221,Rehabilitationsklinik,Clinique de réadaptation,Cliniche di riabilitazione
+K231,Spezialklinik: Chirurgie,Clinique spécialisée: Chirurgie,Cliniche specializzate: chirurgia
+K232,Spezialklinik: Gynäkologie / Neonatologie,Clinique spécialisée: Gynécologie/néonatologie,Cliniche specializzate: ginecologia/neonatologia
+K233,Spezialklinik: Pädiatrie,Clinique spécialisée: Pédiatrie,Cliniche specializzate: pediatria
+K234,Spezialklinik: Geriatrie,Clinique spécialisée: Gériatrie,Cliniche specializzate: geriatria
+K235,Spezialklinik: Diverse,Clinique spécialisée: Divers,Cliniche specializzate: altre

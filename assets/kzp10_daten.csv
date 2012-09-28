@@ -1,0 +1,66 @@
+Code,Text_DE,Text_FR,Text_IT
+KT,Kanton,Canton,Cantone
+"Inst, Adr, Ort",Betrieb und Adresse,Etablissement et adresse,Stabilimento e indirizzo
+Typ,"Spitaltyp, gemäss BFS Spitaltypologie",Type de l’établissement selon la typologie de l’OFS,Tipo di ospedale secondo la tipologia ospedaliera UST
+RWStatus,Rechtlich­wirtschaftlicher Status,Statut juridico­économique des établissements,Statuto giuridico­economico
+Akt,Aktivitätstyp,Type d‘activité,Tipo di attività
+SL,Spezifische Leistungen,Prestations spécifiques,Prestazioni specifiche
+WB,Aus­ und Weiterbildung,Formation de base et formation postgrade,Formazione e perfezionamento
+AnzStand,Anzahl Standorte,Nombre de sites,Numero di sedi
+SA,Spezialausrüstung,Infrastructure spéciale,Infrastruttura speciale
+,Leistungen und Behandlungen,Prestations et prise en charge,Prestazioni e cure
+PtageStatT,"Anzahl Pflegetage (stationär, ohne Austrittstag)","Nombre de journées de soins (hospitalisations, sans jour de sortie)","Giorni di cura (stazionari, senza giorno della dimissione)"
+AustStatT,Austritte während des Jahres (stationär),Nombre de sorties dans l’année (hospitalisations),Pazienti dimessi durante l’anno (stazionari)
+NeugStatT,Anzahl Neugeborene (stationäre Behandlung),Nombre de nouveau­nés (traitement hospitalier),Numero di neonati (cura ospedaliera)
+Ops,Anzahl Operationssäle,Nombre de salles d’opération,Sale operatorie
+Gebs,Anzahl Gebärsäle,Nombre de salles d’accouchement,Numero di sale parto
+CMIb,Casemix Index (CMI) brutto,Indice de casemix (CMI) brut,Casemix Index lordo (CMI)
+CMIn,Casemix Index (CMI) netto,Indice de casemix (CMI) net,Casemix Index netto (CMI)
+pPatWAU,"Anteil ausländische Patienten (%, stationär)","Pourcentage de patients étrangers (%, hospitalisations)","Percentuale di pazienti stranieri (%, stazionari)"
+pPatWAK,"Anteil ausserkantonale Patienten (%, stationär)","Pourcentage de patients hors canton (%, hospitalisations)","Percentuale di pazienti di altri Cantoni (%, stazionari)"
+pPatLKP,"Anteil Patienten halbprivat oder privat (%, stationär)","Pourcentage de patients en division privée ou semi­privée (%, hospitalisations)","Percentuale di pazienti nei reparti privati e semiprivati (%, stazionari)"
+pPatHOK,"Anteil Patienten mit obligatorischer KV als Hauptgarant (%, stationär) ","Pourcentage de patients avec AMal obligatoire comme garante principale (%, hospitalisations) ","Percentuale di pazienti con AMal obbligatoria come garante principale (%, stazionari) "
+,Personal,Personnel ,Personale
+PersA,Ärzte,Médecins,Medici
+PersP,Pflegepersonal,Personnel soignant,Personale sanitario
+PersMT,Übriges medizinisches Personal,Autre personnel médical,Altro personale medico
+PersT,Gesamtes Personal,Personnel total,Totale personale
+PersAFall,Ärzte pro 100 Austritte,Médecins par 100 hospitalisations,Personale medico per 100 pazienti dimessi
+PersPFall,Pflegepersonal pro 100 Austritte,Personnel soignant par 100 hospitalisations,Personale sanitario per 100 pazienti dimessi
+PersMTFall,Übriges medizinisches Personal pro 100 Austritte,Autre personnel médical par 100 hospitalisations,Altro personale medico per 100 pazienti dimessi 
+PersTFall,Gesamtes Personal pro 100 Austritte,Personnel total par 100 hospitalisations,Totale personale per 100 pazienti dimessi
+AnzBelA,Belegärzte,Médecins privés agréés,Medici accreditati
+AnzBelP,Übriges Belegpersonal,Autre personnel agréé,Altro personale accreditato
+,Finanz­ und Betriebsdaten,Finances et exploitation,Dati finanziari e d’esercizio
+AwBesold,Personalaufwand,Charges de personnel,Costi del personale
+AwInvest,Investitionsaufwand,Charges des investissements,Costi d’investimento
+AwSonst,Übriger Betriebsaufwand,Autres charges d’exploitation,Altri costi d’esercizio
+AwT,Total Aufwand,Total charges,Totale costi
+EtMedL,Ertrag aus medizinischen Leistungen und Pflege,Produits des hospitalisations et soins,Ricavi per degenze e cure
+EtSonst,Übriger Betriebsertrag,Autres produits d’exploitation,Altri ricavi d’esercizio
+EtSubv,"Beiträge, Subventionen, Defizitdeckung","Contributions, subventions, déficit couvert","Contributi, sussidi, copertura del disavanzo"
+FiErg,Betriebsergebnis,Résultat d’exploitation,Risultato d’esercizio
+,Leistungen und Behandlungen,Prestations et prise en charge,Prestazioni e cure
+PtageStat,"Anzahl Pflegetage (stationär, ohne Austrittstag)","Nombre de journées de soins (hospitalisations, sans jour de sortie)","Giorni di cura (stazionari, senza giorno della dimissione)"
+AustStat,Austritte während des Jahres (stationär),Nombre de sorties dans l’année (hospitalisations),Pazienti dimessi durante l’anno (stazionari)
+BettenStat,Betten (stationär),Nombre de lits (hospitalisations),Posti letto (stazionari)
+DADStat,"Durchschnittliche Aufenthaltsdauer (Tage, stationär)",Durée moyenne d’hospitalisation (jours d’hospitalisation),"Durata media di degenza (giorni, stazionaria)"
+pBettenBelStat,"Belegungsgrad der Betten (%, stationär)","Taux d’occupation des lits (%, hospitalisations)","Tasso d’occupazione dei letti (%, stazionari)"
+,Finanz­ und Betriebsdaten,Finances et exploitation,Dati finanziari e d’esercizio
+KostAmb,Gesamtkosten ambulant,Coûts totaux du secteur ambulatoire,Totale costi del settore ambulatoriale
+KostOKPAmb,- davon Kosten zulasten OKP,- dont coûts à la charge de l’AOS,- di cui costi a carico dell’AOMS
+KostStat,Gesamtkosten stationär,Coûts totaux du secteur hospitalier,Totale costi del settore stazionario
+KostKVGStat,"- davon Kosten zulasten OKP, nur Grundversicherte KVG","- dont coûts à la charge de l’AOS, patients exclusivement assurés de base LAMal","- di cui costi a carico dell’AOMS, solo pazienti con assicurazione di base LAMal"
+AnlKVGStat,- davon Anlagenutzungskosten,- dont charges d’utilisation des investissements,- di cui costi di utilizzo delle immobilizzazioni
+KostZvOKPStat,"- davon Kosten zulasten OKP, Zusatzversicherte","- dont coûts à la charge de l’AOS, patients assurés en complémentaire","- di cui costi a carico dell’AOMS, pazienti con assicurazioni complementari"
+AnlZvOKPStat,- davon Anlagenutzungskosten,- dont charges d’utilisation des investissements,- di cui costi di utilizzo delle immobilizzazioni
+KostLang,Gesamtkosten Langzeitpflege,Coûts totaux des soins de longue durée,Totale costi del settore della lungodegenza
+AuftragLF,Auftrag Lehre und Forschung,Mandat enseignement et recherche,Mandati insegnamento e ricerca
+ErlAmb,Gesamterlös ambulant ,Total des produits du secteur ambulatoire ,Ricavi complessivi del settore ambulatoriale
+ErlOKPAmb,- davon Erlös OKP,- dont produits AOS,- di cui ricavi AOMS
+ErlStat,Gesamterlös stationär ,Total des produits des hospitalisations,Ricavi complessivi del settore stazionario 
+ErlKVGStat,"- davon Erlös OKP, nur Grundversicherte KVG","- dont produits AOS, patients exclusivement assurés de base LAMal","- di cui ricavi AOMS, solo pazienti con assicurazione di base LAMal"
+ErlKVGStatV, - davon Anteil Versicherer (%),- dont part des assureurs (%),- di cui percentuale assicurazione (%)
+ErlZvOKPStat,"- davon Erlös OKP, Zusatzversicherte","- dont produits AOS, patients assurés en complémentaire","- di cui ricavi AOMS, pazienti con assicurazioni complementari"
+ErlZvOKPStatV,- davon Anteil Versicherer (%),- dont part des assureurs (%),- di cui percentuale assicurazione (%)
+ErlLang,Gesamterlös Langzeitpflege,Total des produits des soins de longue durée,Ricavi complessivi del settore della lungodegenza

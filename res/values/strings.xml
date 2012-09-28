@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">CompareHospitals</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="spital_1">Spital 1</string>
+    <string name="spital_2">Spital 2</string>
+    <string name="spital_3">Spital 3</string>
+    <string-array name="names">
+<item>Иван</item>
+<item>Марья</item>
+<item>Петр</item>
+<item>Антон</item>
+<item>Даша</item>
+<item>Борис</item>
+<item>Костя</item>
+<item>Игорь</item>
+<item>Анна</item>
+<item>Денис</item>
+<item>Вадим</item>
+<item>Ольга</item>
+<item>Сергей</item>
+</string-array>
+
+</resources>
